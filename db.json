@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1c09",
+      "firstName": "Lathasri",
+      "lastName": "bagothulA",
+      "email": "lathasri1901@gmail.com",
+      "phone": "7989910507"
+    },
+    {
+      "id": "1c09",
+      "firstName": "Lathasri",
+      "lastName": "bagothulA123",
+      "email": "lathasri1901@gmail.com",
+      "phone": "7989910507"
+    },
+    {
+      "id": "0184",
+      "firstName": "Latha",
+      "lastName": "bago",
+      "email": "lathasri1901@gmail.com",
+      "phone": "7989910507"
+    },
+    {
+      "id": "6d21",
+      "firstName": "Latha",
+      "lastName": "bago",
+      "email": "lathasri1901@gmail.com",
+      "phone": "7989910507"
+    }
+  ]
+}
